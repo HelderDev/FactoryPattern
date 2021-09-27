@@ -1,0 +1,13 @@
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\bin\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.exe
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\bin\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.deps.json
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\bin\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.runtimeconfig.json
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\bin\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.runtimeconfig.dev.json
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\bin\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.dll
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\bin\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.pdb
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\obj\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.csproj.AssemblyReference.cache
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\obj\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.AssemblyInfoInputs.cache
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\obj\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.AssemblyInfo.cs
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\obj\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.csproj.CoreCompileInputs.cache
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\obj\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.dll
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\obj\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.pdb
+C:\Users\hcavalcantea\source\repos\FactoryPattern\FactoryPattern-RealWorldExample\obj\Debug\netcoreapp3.1\FactoryPattern-RealWorldExample.genruntimeconfig.cache
